@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main bloch
- * return: 0
+ * Return: o
  */
 int main(void)
 {
