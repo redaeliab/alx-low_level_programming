@@ -6,7 +6,7 @@
  * Return: 0 nothing, return void
  */
 
-int main (void)
+int main(void)
 
 {
 	_putchar('_');
